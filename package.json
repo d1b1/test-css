@@ -4,10 +4,5 @@
   "description": "",
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "clean-css": "^3.4.2",
-    "myth": "^1.5.0",
-    "rework-npm-cli": "^0.1.1"
-  },
   "style": "index.css"
 }
